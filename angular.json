@@ -117,8 +117,13 @@
               "devServerTarget": "Orbit-Report:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {}
         }
       }
-    }},
+    }
+  },
   "defaultProject": "Orbit-Report"
 }
