@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    font-family: 'Helvetica', 'Courier';
+  }
+
+  h3 {
+      color: #34495E;
+  }
